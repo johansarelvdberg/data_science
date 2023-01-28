@@ -1,0 +1,3 @@
+[submodule "kaggle_titanic"]
+	path = kaggle_titanic
+	url = https://github.com/johansarelvdberg/kaggle_titanic.git
